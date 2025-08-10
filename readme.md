@@ -150,3 +150,8 @@ This repository and the information contained herein (collectively, this "Reposi
 本项目改自 Injective 的 iAgent 项目，不过应用的是通义千问 api，而不是 OpenAI api。
 
 相对于原本的项目，只需要稍微改动 agent_server.py 文件和.env 文件，在 OPENAI_API_KEY 部分填入通义千问的 api key 即可。
+
+## 实际执行效果截图
+
+![Part 1](./images/task4_1.png)
+![Part 2](./images/task4_2.png)
